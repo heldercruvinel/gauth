@@ -1,2 +1,2 @@
 # gauth
-Go app to manager authorization and authentication
+Go app to manage authorization and authentication
